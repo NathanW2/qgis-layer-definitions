@@ -1,0 +1,14 @@
+[general]
+name=QGIS Layer Definitions.
+qgisMinimumVersion=2.0
+qgisMaximumVersion=2.2
+description=Craete and load QGIS Layer Definitions. New feature in QGIS 2.3 but this plugin brings it to QGIS 2.0 and 2.2.
+version=1
+author=Nathan Woodrow
+email=woodrow.nathan@gmail.com
+icon=icon.png
+
+homepage=https://github.com/DMS-Aus/intramaps-qgis-plugin
+tracker=https://github.com/DMS-Aus/intramaps-qgis-plugin/issues
+repository=https://github.com/DMS-Aus/intramaps-qgis-plugin
+
